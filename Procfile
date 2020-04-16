@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser coronavirus_in_bangladesh.ipynb
+web: voila --port=$PORT --no-browser --template=material --theme=dark coronavirus_in_bangladesh.ipynb
