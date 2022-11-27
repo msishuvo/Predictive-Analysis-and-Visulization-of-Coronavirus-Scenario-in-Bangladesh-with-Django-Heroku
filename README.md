@@ -3,5 +3,3 @@ A Python-based Data Analysis project with a predictive model to visualize the Co
 
 Data collected from IEDCR and JHU CSSE.<br>
 Libraries and Tools used: pandas, matplotlib, plotly, folium, fbprophet, Jupyter Notebook, Voila, Heroku, etc.
-
-Visit https://coronavirus-in-bangladesh.herokuapp.com/ for the live view of this project.
